@@ -11,11 +11,6 @@
 - Communication : <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 - Once I used : <img src="https://img.shields.io/badge/Ruby on Rails-D30001?style=flat&logo=Ruby on Rails&logoColor=white"/>
 
-<details>
-  <summary><b>📚 BaekJook Stats</b></summary>
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ijinkyung12)](https://solved.ac/ijinkyung12/)
-</details>
   
 <details>
   <summary><b>🔥 GitHub Streak</b></summary>
